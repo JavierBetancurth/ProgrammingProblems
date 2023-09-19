@@ -1,6 +1,5 @@
-# Welcome to GitHub Programming Problems!
+$${\color{#BE3455}\Large\textbf{Welcome to GitHub Programming Problems!}}$$
 
-$${\color{#BE3455}\Large\textbf{Introduction}}$$
 
 <p align="justify"> In the ever-evolving world of software development and programming, the pursuit of solutions to coding problems and programming challenges is a constant endeavor. To streamline this process and foster collaboration among developers, a repository that specializes in resolving coding problems and programming conundrums emerges as an invaluable resource. Such a repository not only serves as a reservoir of knowledge but also as a vibrant community where programmers, both novices and experts, converge to share insights, learn from one another, and collectively tackle the most intricate challenges in the realm of code.</p>
 
